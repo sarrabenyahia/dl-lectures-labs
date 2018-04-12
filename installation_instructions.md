@@ -29,13 +29,6 @@ We tested the notebooks with keras 2.1.2 and tensoflow 1.4.1.
 Ideally: create a new jupyter notebook and check that you can import
 the numpy, matplotlib, keras and tensorflow  modules.
 
-To take pictures with the webcam we will also need opencv-python:
-
-    python3 -m pip install opencv-python
-
-If your laptop does not have a webcam or if opencv does not work, don't worry
-this is not mandatory.
-
 
 # Troubleshooting 
 
