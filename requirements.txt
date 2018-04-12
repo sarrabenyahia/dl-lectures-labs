@@ -10,4 +10,4 @@ scikit-image
 lxml
 tensorflow
 keras
-opencv-python
+opencv
