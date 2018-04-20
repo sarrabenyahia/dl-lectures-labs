@@ -12,7 +12,7 @@ by Olivier Grisel and Charles Ollion
 
 <p style="text-align: center">
 <a href="http://datascience-x-master-paris-saclay.fr/"><img
-  src="slides/05_conv_nets_2/images/Logo_Master_Datascience.png" width="300"/></a>
+  src="slides/05_conv_nets/images/Logo_Master_Datascience.png" width="300"/></a>
 </p>
 
 
