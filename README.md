@@ -24,9 +24,8 @@ The course covers the basics of Deep Learning, with a focus on applications.
 
   - [Intro to Deep Learning](https://rawgit.com/rth/dl-lectures-labs/M2-IMDS/slides/01_intro_to_deep_learning/index.html)
   - [Neural Networks and Backpropagation](https://rawgit.com/rth/dl-lectures-labs/M2-IMDS/slides/02_backprop/index.html)
-  - [Embeddings and Recommender Systems](https://rawgit.com/rth/dl-lectures-labs/M2-IMDS/slides/04_recommender_systems/index.html)
   - [Convolutional Neural Networks for Image Classification](https://rawgit.com/rth/dl-lectures-labs/M2-IMDS/slides/03_conv_nets/index.html)
-  - [Deep Learning for Object Detection and Image Segmentation](https://rawgit.com/rth/dl-lectures-labs/M2-IMDS/slides/05_conv_nets_2/index.html)
+  - [Embeddings and Natural Language Processing](https://rawgit.com/rth/dl-lectures-labs/M2-IMDS/slides/04_embeddings_nlp/index.html)
 
 Note: press "P" to display the presenter's notes that include some comments and
 additional references.
@@ -47,24 +46,9 @@ Direct links to the rendered notebooks including solutions (to be updated):
 
 #### Lab 1: Neural Networks and Backpropagation
 
-  - [Intro to MLP with Keras, Numpy and TensorFlow](https://github.com/rth/dl-lectures-labs/blob/M2-IMDS/labs/01_backprop/Intro_MLP_keras_numpy_tensorflow_rendered.ipynb)
+#### Lab 2: Convolutional Neural Networks for Image Classification
 
-#### Lab 2: Embeddings and Recommender Systems
-
-  - [Short Intro to Embeddings with Keras](https://github.com/rth/dl-lectures-labs/blob/M2-IMDS/labs/02_neural_recsys/Short_Intro_to_Embeddings_with_Keras_rendered.ipynb)
-  - [Neural Recommender Systems with Explicit Feedback](https://github.com/rth/dl-lectures-labs/blob/M2-IMDS/labs/02_neural_recsys/Explicit_Feedback_Neural_Recommender_System_rendered.ipynb)
-  - [Neural Recommender Systems with Implicit Feedback and the Triplet Loss](https://github.com/rth/dl-lectures-labs/blob/M2-IMDS/labs/02_neural_recsys/Implicit_Feedback_Recsys_with_the_triplet_loss_rendered.ipynb)
-
-#### Lab 3: Convolutional Neural Networks for Image Classification
-
-  - [Convolution and ConvNets with TensorFlow](https://github.com/rth/dl-lectures-labs/blob/M2-IMDS/labs/03_conv_nets/ConvNets_with_TensorFlow_rendered.ipynb)
-  - [Pretrained ConvNets with Keras](https://github.com/rth/dl-lectures-labs/blob/M2-IMDS/labs/03_conv_nets/Pretrained_ConvNets_with_Keras_rendered.ipynb)
-  - [Fine Tuning a pretrained ConvNet with Keras (GPU required)](https://github.com/rth/dl-lectures-labs/blob/M2-IMDS/labs/03_conv_nets/Fine_Tuning_Deep_CNNs_with_GPU_rendered.ipynb)
-
-#### Lab 4: Text Classification, Word Embeddings and Language Models
-
-  - [Text Classification and Word Vectors](https://github.com/rth/dl-lectures-labs/blob/M2-IMDS/labs/05_deep_nlp/NLP_word_vectors_classification_rendered.ipynb)
-  - [Character Level Language Model (GPU required)](https://github.com/rth/dl-lectures-labs/blob/M2-IMDS/labs/05_deep_nlp/Character_Level_Language_Model_rendered.ipynb)
+#### Lab 3: Embedding and Natual Language Processing
 
 
 ## Acknowledgments
