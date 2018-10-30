@@ -59,9 +59,8 @@ Charles Ollion, head of research at [Heuritech](http://www.heuritech.com) -
 Olivier Grisel, software engineer at
 [Inria](https://team.inria.fr/parietal/en)
 
-<a href="http://www.heuritech.com"><img src="slides/03_conv_nets_2/images/logo heuritech v2.png"
-width="300"/></a> <a href="https://team.inria.fr/parietal/en"><img
-src="slides/03_conv_nets_2/images/inria-logo.png" width="250"/></a>
+<a href="http://www.heuritech.com"> <img src="slides/03_conv_nets/images/heuritech-logo.png" width="300"/></a>
+<a href="https://team.inria.fr/parietal/en"><img src="slides/03_conv_nets/images/inria-logo.png" width="250"/></a>
 
 We thank the  Orange-Keyrus-Thalès chair for supporting this class.
 
