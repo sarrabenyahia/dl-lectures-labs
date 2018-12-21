@@ -22,10 +22,10 @@ The course covers the basics of Deep Learning, with a focus on applications.
 
 ### Lecture slides
 
-  - [Intro to Deep Learning](https://rawgit.com/rth/dl-lectures-labs/M2-IMDS/slides/01_intro_to_deep_learning/index.html)
-  - [Neural Networks and Backpropagation](https://rawgit.com/rth/dl-lectures-labs/M2-IMDS/slides/02_backprop/index.html)
-  - [Convolutional Neural Networks for Image Classification](https://rawgit.com/rth/dl-lectures-labs/M2-IMDS/slides/03_conv_nets/index.html)
-  - [Embeddings and Natural Language Processing](https://rawgit.com/rth/dl-lectures-labs/M2-IMDS/slides/04_embeddings_nlp/index.html)
+  - [Intro to Deep Learning](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/01_intro_to_deep_learning/index.html)
+  - [Neural Networks and Backpropagation](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/02_backprop/index.html)
+  - [Convolutional Neural Networks for Image Classification](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/03_conv_nets/index.html)
+  - [Embeddings and Natural Language Processing](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/04_embeddings_nlp/index.html)
 
 Note: press "P" to display the presenter's notes that include some comments and
 additional references.
@@ -39,7 +39,7 @@ the [github repository](https://github.com/rth/dl-lectures-labs/):
 
 These notebooks only work with `keras and tensorflow`
 Please follow the [installation\_instructions.md](
-https://github.com/rth/dl-lectures-labs/blob/M2-IMDS/installation_instructions.md)
+https://github.com/rth/dl-lectures-labs/blob/master/installation_instructions.md)
 to get started.
 
 Direct links to the rendered notebooks including solutions (to be updated): 
