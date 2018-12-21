@@ -13,6 +13,8 @@ on your laptop.
 Open a console / terminal and create a new virtual environment with conda,
 
     conda create -n dl-lectures-env -c conda-forge --file requirements.txt python=3.6
+    activate dl-lectures-env
+    jupyter notebook
 
 This installs tensorflow and keras (without GPU support).
 
