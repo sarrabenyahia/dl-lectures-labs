@@ -1,6 +1,6 @@
 # Deep Learning course: lecture slides and lab notebooks
 
-<a href="https://mybinder.org/v2/gh/rth/dl-lectures-labs/M2-IMSD">
+<a href="https://mybinder.org/v2/gh/rth/dl-lectures-labs/master">
   <img src="https://mybinder.org/badge.svg" />
 </a>
 
