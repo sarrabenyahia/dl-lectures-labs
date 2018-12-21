@@ -8,6 +8,6 @@ h5py
 pillow
 scikit-image
 lxml
-tensorflow==1.4.*
-keras==2.1.*
-opencv
+tensorflow==1.4.1
+keras==2.1.2
+# opencv
