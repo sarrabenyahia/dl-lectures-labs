@@ -3,21 +3,18 @@
 Download the Anaconda distribution for your Operating System
 (Windows, macOS or Linux):
 
-   - https://www.continuum.io/downloads (~500 MB)
-   - Choose **Python 3.6**
+   - https://www.anaconda.com/download (~500 MB)
+   - Choose **Python 3.7**
    - Choose "64-bit installer"
 
 Follow the instructions of the Anaconda page to install anaconda
 on your laptop.
 
-Open a console / terminal and update the following packages with conda:
+Open a console / terminal and create a new virtual environment with conda,
 
-    conda install python=3.6 numpy scikit-learn jupyter matplotlib pip
-    conda install pandas h5py pillow scikit-image lxml
+    conda create -n dl-lectures-env --file requirements.txt python=3.6
 
-Install the tensorflow and keras (without GPU support) library:
-
-    python3 -m pip install -U tensorflow keras
+This installs tensorflow and keras (without GPU support).
 
 Check that you can import tensorflow with the python from anaconda:
 
