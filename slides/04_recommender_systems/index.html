@@ -371,6 +371,57 @@ model.add(Dense(output_size, activation='softmax'))
 In practice, activations are multiplied by $\frac{1}{p}$ at train time, test time is unchanged
 
 ---
+
+# Batch Normalization
+
+Normalize activations in each **mini-batch** before activation function:
+**speeds up** and **stabilizes** training (less dependent on init)
+
+.footnote.small[
+Ioffe, Sergey, and Christian Szegedy. "Batch normalization:
+Accelerating deep network training by reducing internal covariate
+shift." ICML 2015
+]
+
+--
+.center[
+<img src="images/batchnorm.png" style="width: 450px;" />
+]
+
+???
+Used successfully in conjunction to residual connection.
+
+---
+# Batch Normalization
+
+At **inference time**, use average and standard deviation computed on
+**the whole dataset** instead of batch
+
+--
+
+Widely used in **ConvNets**, but requires the mini-batch to be large
+enough to compute statistics in the minibatch.
+
+--
+
+In **Keras**: use it as a layer, before activation	
+	
+```python
+x = Convolution2D(64, 1, 1)(input_tensor)
+x = BatchNormalization()(x)
+x = Activation('relu')(x)
+```
+
+--
+
+- Introduces new parameters: `2 x size_of_activation` (here 128)
+
+--
+- Keras keeps track of a **running average/std** of activations for
+  inference, no need to have specific inference code.
+
+
+---
 class: middle, center
 
 # Recommender Systems
