@@ -25,7 +25,8 @@ The course covers the basics of Deep Learning, with a focus on applications.
   - [Intro to Deep Learning](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/01_intro_to_deep_learning/index.html)
   - [Neural Networks and Backpropagation](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/02_backprop/index.html)
   - [Convolutional Neural Networks for Image Classification](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/03_conv_nets/index.html)
-  - [Embeddings and Natural Language Processing](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/04_embeddings_nlp/index.html)
+  - [Embeddings and Recommender systems](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/04_recommender_systems/index.html)
+  - [Embeddings and Natural Language Processing](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/05_deep_nlp/index.html)
 
 Note: press "P" to display the presenter's notes that include some comments and
 additional references.
