@@ -3,30 +3,38 @@
 Download the Anaconda distribution for your Operating System
 (Windows, macOS or Linux):
 
-   - https://www.anaconda.com/download (~500 MB)
-   - Choose **Python 3.7**
+   - https://www.continuum.io/downloads (~500 MB)
+   - Choose **Python 3.6**
    - Choose "64-bit installer"
 
 Follow the instructions of the Anaconda page to install anaconda
 on your laptop.
 
-Open a console / terminal and create a new virtual environment with conda,
+Open a console / terminal and update the following packages with conda:
 
-    conda create -n dl-lectures-env -c conda-forge --file requirements.txt python=3.6
-    activate dl-lectures-env
-    jupyter notebook
+    conda install python=3.6 numpy scikit-learn jupyter matplotlib pip
+    conda install pandas h5py pillow scikit-image lxml
 
-This installs tensorflow and keras (without GPU support).
+Install the tensorflow and keras (without GPU support) library:
+
+    python3 -m pip install -U tensorflow<2.0.0 keras
 
 Check that you can import tensorflow with the python from anaconda:
 
     python3 -c "import tensorflow as tf; print(tf.__version__)"
     1.4.1
 
-We tested the notebooks with keras 2.1.2 and tensoflow 1.4.1.
+We tested the notebooks with keras 2.2 and tensoflow 1.8.
 
 Ideally: create a new jupyter notebook and check that you can import
 the numpy, matplotlib, keras and tensorflow  modules.
+
+To take pictures with the webcam we will also need opencv-python:
+
+    python3 -m pip install opencv-python
+
+If your laptop does not have a webcam or if opencv does not work, don't worry
+this is not mandatory.
 
 
 # Troubleshooting 
