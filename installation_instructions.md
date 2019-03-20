@@ -3,8 +3,8 @@
 Download the Anaconda distribution for your Operating System
 (Windows, macOS or Linux):
 
-   - https://www.continuum.io/downloads (~500 MB)
-   - Choose **Python 3.6**
+   - https://www.anaconda.com/distribution/ (~600 MB)
+   - Choose **Python 3.7**
    - Choose "64-bit installer"
 
 Follow the instructions of the Anaconda page to install anaconda
@@ -17,7 +17,7 @@ Open a console / terminal and update the following packages with conda:
 
 Install the tensorflow and keras (without GPU support) library:
 
-    python3 -m pip install -U tensorflow<2.0.0 keras
+    python3 -m pip install -U "tensorflow<2.0.0" keras
 
 Check that you can import tensorflow with the python from anaconda:
 
@@ -28,13 +28,6 @@ We tested the notebooks with keras 2.2 and tensoflow 1.8.
 
 Ideally: create a new jupyter notebook and check that you can import
 the numpy, matplotlib, keras and tensorflow  modules.
-
-To take pictures with the webcam we will also need opencv-python:
-
-    python3 -m pip install opencv-python
-
-If your laptop does not have a webcam or if opencv does not work, don't worry
-this is not mandatory.
 
 
 # Troubleshooting 
