@@ -22,11 +22,10 @@ The course covers the basics of Deep Learning, with a focus on applications.
 
 ### Lecture slides
 
-  - [Intro to Deep Learning](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/01_intro_to_deep_learning/index.html)
-  - [Neural Networks and Backpropagation](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/02_backprop/index.html)
-  - [Convolutional Neural Networks for Image Classification](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/03_conv_nets/index.html)
-  - [Embeddings and Recommender systems](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/04_recommender_systems/index.html)
-  - [Natural Language Processing](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/05_deep_nlp/index.html)
+  - Intro to Deep Learning ([HTML](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/01_intro_to_deep_learning/index.html) | [PDF](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/01_intro_to_deep_learning.pdf))
+  - Neural Networks and Backpropagation ([HTML](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/02_backprop/index.html) | [PDF](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/02_backprop.pdf))
+  - Convolutional Neural Networks for Image Classification ([HTML](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/03_conv_nets/index.html) | [PDF](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/03_conv_nets.pdf))
+  - Embeddings and Recommender systems ([HTML](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/04_recommender_systems/index.html) | [PDF](https://s3-eu-west-1.amazonaws.com/public-sym/dl-lectures-labs/04_recommender_systems.pdf))
 
 Note: press "P" to display the presenter's notes that include some comments and
 additional references.
