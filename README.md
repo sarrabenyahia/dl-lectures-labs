@@ -20,11 +20,6 @@ The course covers the basics of Deep Learning, with a focus on applications.
   - [Embeddings and Recommender Systems](https://m2dsupsdlclass.github.io/lectures-labs/slides/03_recommender_systems/index.html)
   - [Convolutional Neural Networks for Image Classification](https://m2dsupsdlclass.github.io/lectures-labs/slides/04_conv_nets/index.html)
   - [Deep Learning for Object Detection and Image Segmentation](https://m2dsupsdlclass.github.io/lectures-labs/slides/05_conv_nets_2/index.html)
-  - [Recurrent Neural Networks and NLP](https://m2dsupsdlclass.github.io/lectures-labs/slides/06_deep_nlp/index.html)
-  - [Sequence to sequence, attention and memory](https://m2dsupsdlclass.github.io/lectures-labs/slides/07_deep_nlp_2/index.html)
-  - [Expressivity, Optimization and Generalization](https://m2dsupsdlclass.github.io/lectures-labs/slides/08_expressivity_optimization_generalization/index.html)
-  - [Imbalanced classification and metric learning](https://m2dsupsdlclass.github.io/lectures-labs/slides/09_imbalanced_classif_metric_learning/index.html)
-  - [Unsupervised Deep Learning and Generative models](https://m2dsupsdlclass.github.io/lectures-labs/slides/10_unsupervised_generative_models/index.html)
 
 Note: press "P" to display the presenter's notes that include some comments and
 additional references.
@@ -71,30 +66,6 @@ Direct links to the rendered notebooks including solutions (to be updated in ren
   - [Fully Convolutional Neural Networks](https://github.com/rth/dl-lectures-labs/blob/master/labs/05_conv_nets_2/Fully_Convolutional_Neural_Networks_rendered.ipynb)
   - [ConvNets for Classification and Localization](https://github.com/rth/dl-lectures-labs/blob/master/labs/05_conv_nets_2/ConvNets_for_Classification_and_Localization_rendered.ipynb)
 
-#### Lab 6: Text Classification, Word Embeddings and Language Models
-
-  - [Text Classification and Word Vectors](https://github.com/rth/dl-lectures-labs/blob/master/labs/06_deep_nlp/NLP_word_vectors_classification_rendered.ipynb)
-  - [Character Level Language Model (GPU required)](https://github.com/rth/dl-lectures-labs/blob/master/labs/06_deep_nlp/Character_Level_Language_Model_rendered.ipynb)
-  - [Transformers (BERT fine-tuning): Joint Intent Classification and Slot Filling](https://github.com/rth/dl-lectures-labs/blob/master/labs/06_deep_nlp/Transformers_Joint_Intent_Classification_Slot_Filling_rendered.ipynb)
-
-#### Lab 7: Sequence to Sequence for Machine Translation
-
-  - [Translation of Numeric Phrases with Seq2Seq](https://github.com/rth/dl-lectures-labs/blob/master/labs/07_seq2seq/Translation_of_Numeric_Phrases_with_Seq2Seq_rendered.ipynb)
-  
-#### Lab 8: Intro to PyTorch
-
-  - [Pytorch Introduction to Autograd](https://github.com/rth/dl-lectures-labs/blob/master/labs/08_frameworks/A_PyTorch_introduction__autograd_in_action.ipynb)
-  - [Pytorch classification of Fashion MNIST](https://github.com/rth/dl-lectures-labs/blob/master/labs/08_frameworks/Fashion_MNIST_classification.ipynb)
-  - [Stochastic Optimization Landscape in Pytorch](https://github.com/rth/dl-lectures-labs/blob/master/labs/08_frameworks/Minimal_MLP__stochastic_optimization_landscape.ipynb)
-
-#### Lab 9: Siamese Networks and Triplet loss
-
-  - [Face verification using Siamese Nets](https://github.com/rth/dl-lectures-labs/blob/master/labs/09_triplet_loss/Face_Verification_Using_Siamese_Nets.ipynb)
-  - [Face verification using Triplet loss](https://github.com/rth/dl-lectures-labs/blob/master/labs/09_triplet_loss/Face_Verification_Using_Triplet_Loss.ipynb)
-
-#### Lab 10: Variational Auto Encoder
-
-  - [VAE on Fashion MNIST](https://github.com/rth/dl-lectures-labs/blob/master/labs/10_unsupervised_generative_models/Variational_AutoEncoders.ipynb)
   
 ## Acknowledgments
 
