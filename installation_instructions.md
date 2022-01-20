@@ -15,7 +15,11 @@ Alternatively, feel free to use the lighter-weight miniconda command line:
    https://docs.conda.io/en/latest/miniconda.html
 
 In either case install the following packages, for instance by opening a console
-/ terminal and update the following packages with the conda command:
+/ terminal and update the following packages with pip:
+   
+   pip install -r requirements.txt
+   
+or using the conda command:
 
     conda install python=3.8 numpy scikit-learn jupyter ipykernel matplotlib pip
     conda install pandas h5py pillow scikit-image lxml tensorflow
