@@ -8,7 +8,7 @@ h5py==2.10.0  # problem when loading pre-trained keras models with newer version
 pillow
 scikit-image
 lxml
-tensorflow>=2.5.1
+tensor
 opencv-python
 gast
 setuptools>=41.0.0
